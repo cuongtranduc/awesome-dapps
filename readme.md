@@ -41,13 +41,13 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 - [@EtherCasts](https://twitter.com/EtherCasts)
 
 ### Blogs
-
+- [Dapp Tutorial](http://www.dappuniversity.com)
 - [Ethereum Blog](https://blog.ethereum.org/)
 - [Golem Blog](https://blog.golemproject.net/)
 - [EatTheBlocks Blog](https://eattheblocks.com)
 
 ### YouTube
-
+- [Dapp Tutorial Channel](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 - [Ethereum YouTube Channel](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ)
 - [EatTheBlocks YouTube Channel](https://www.youtube.com/c/eattheblocks)
 
